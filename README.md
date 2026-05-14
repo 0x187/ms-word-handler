@@ -15,7 +15,7 @@ After editing, changes are uploaded back to the server automatically – no Micr
 Clone the repository and run the install script:
 
 ```bash
-git clone https://github.com/yourusername/ms-word-libreoffice-handler.git
+git clone https://github.com/0x187/ms-word-handler.git
 cd ms-word-libreoffice-handler
 chmod +x install-ms-word-handler.sh
 ./install-ms-word-handler.sh
